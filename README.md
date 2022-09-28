@@ -2,7 +2,7 @@
 - 👀 I’m hate coding
 - 🌱 I’m currently learning python c++
 - 💞️
-- 📫 How to reach me ... 
+- 📫 This is my Instagram  ray022558
 
 <!---
 ray970225/ray970225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
