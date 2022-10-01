@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 
  visitor
  
-https://count.getloli.com/get/@%E4%BD%A0%E7%9A%84%E4%BD%BF%E7%94%A8%E8%80%85%E5%90%8D%E7%A8%B1?theme=rule34
+![Visitor Count](https://count.getloli.com/get/@你的使用者名稱?theme=rule34)
+2254 — 今天 13:16
