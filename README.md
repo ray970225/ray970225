@@ -8,3 +8,5 @@
 ray970225/ray970225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Visitor Count](https://count.getloli.com/get/@你的使用者名稱?theme=rule34)
