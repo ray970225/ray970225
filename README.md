@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
  visitor
-![Visitor Count](https://count.getloli.com/get/sadcat?theme=rule34)
+ 
+![Visitor Count](https://count.getloli.com/get/?theme=rule34)
