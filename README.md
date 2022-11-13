@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  a student from Taiwan
-- 👀 I’m hate coding
+- 👀 I’m like coding
 - 🌱 I’m currently learning python c++
 - 💞️
 - 📫 This is my Instagram  ray022558
