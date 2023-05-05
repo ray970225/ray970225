@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  a student from Taiwan
 - 👀 I’m like coding
-- 🌱 I’m currently learning python c++
+- 🌱 I’m currently learning python 
 - 💞️
 - 📫 This is my Instagram  ray022558
 
